@@ -1,0 +1,17 @@
+#first{
+    display:block;
+    border: 2px solid darkblue;
+    padding: 5px;
+}
+.g_box{
+    display: inline;
+    background-color: aquamarine;
+    border: 2px solid darkblue;
+    padding: 5px;
+}
+.b_box{
+    display: inline-block;
+    background-color: rgb(1, 79, 237);
+    border: 2px solid darkblue;
+    padding: 10px;
+}
